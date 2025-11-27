@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs"
+  contactDetails:
+    name: "Yoon Hnin - Developer"
+    email: "yoon@gmail.com"
+  onCallSupport:
+    - 0800482111
+    - 0800482222

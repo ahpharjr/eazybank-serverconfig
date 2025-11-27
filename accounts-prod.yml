@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs"
+  contactDetails:
+    name: "Ah Phar - Owner"
+    email: "ahphar@gmail.com"
+  onCallSupport:
+    - 0800483222
+    - 0800482666

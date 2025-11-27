@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Ah Phar - Developer"
+    email: "ahphar@gmail.com"
+  onCallSupport:
+    - 0800483555
+    - 0800482666

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Ah Phar Jr - QA Lead"
+    email: "ahphar@gmail.com"
+  onCallSupport:
+    - 0800483777
+    - 0800482888
