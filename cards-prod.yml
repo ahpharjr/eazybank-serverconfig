@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related Test WebHook APIs"
+  message: "Welcome to EazyBank cards related prod APIs"
   contactDetails:
     name: "Yoon Hnin - Owner"
     email: "yoon@gmail.com"
@@ -10,6 +10,7 @@ cards:
     - 0800482111
 
     - 0800482222
+
 
 
 
