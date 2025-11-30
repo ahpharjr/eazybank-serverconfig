@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related webhook APIs"
+  message: "Welcome to EazyBank accounts related test webhook APIs"
   contactDetails:
     name: "Ah Phar - Owner"
     email: "{cipher}dbbec94cc240dab3c584f07f5a498b7dc9dc8aa6974ef36508137705bc9b431c0bb967ccd05354c104e53547ab5095de"
@@ -10,6 +10,7 @@ accounts:
     - 0800483222
 
     - 0800482666
+
 
 
 
